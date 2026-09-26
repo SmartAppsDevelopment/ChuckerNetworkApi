@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Network Inspector</string>
+
+    <string name="network_inspector_title">Network Inspector</string>
+    <string name="empty_title">No network requests</string>
+    <string name="empty_subtitle">API requests captured by the inspector will appear here.</string>
+    <string name="empty_state_desc">Empty network requests illustration</string>
+    <string name="reload_sample_data">Reload Sample Requests</string>
+    <string name="live_capture_active">Live Capture Active</string>
+    <string name="search_hint">Search URL, host, method, status…</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter requests</string>
+    <string name="action_clear_search">Clear search</string>
+    <string name="action_clear_history">Clear history</string>
+    <string name="action_close">Close</string>
+    <string name="action_copy_url">Copy URL</string>
+    <string name="action_copy_headers">Copy headers</string>
+    <string name="action_copy_body">Copy body</string>
+
+    <string name="filter_requests_title">Filter Requests</string>
+    <string name="filter_method_header">HTTP METHOD</string>
+    <string name="filter_status_header">STATUS CODE</string>
+    <string name="filter_options_header">OPTIONS</string>
+    <string name="filter_https_only">HTTPS only</string>
+    <string name="filter_errors_only">Requests with errors only (4xx/5xx)</string>
+    <string name="filter_clear_btn">Clear Filters</string>
+    <string name="filter_apply_btn">Apply Filters</string>
+
+    <string name="tab_request">REQUEST</string>
+    <string name="tab_response">RESPONSE</string>
+    <string name="tab_details">DETAILS</string>
+
+    <string name="section_general">GENERAL</string>
+    <string name="section_headers">HEADERS</string>
+    <string name="section_request_body">REQUEST BODY</string>
+    <string name="section_response_status">RESPONSE STATUS</string>
+    <string name="section_response_headers">RESPONSE HEADERS</string>
+    <string name="section_response_body">RESPONSE BODY</string>
+    <string name="section_timing">TIMING</string>
+    <string name="section_network">NETWORK</string>
+    <string name="section_request_metrics">REQUEST METRICS</string>
+    <string name="section_response_metrics">RESPONSE METRICS</string>
+
+    <string name="label_url">URL</string>
+    <string name="label_method">Method</string>
+    <string name="no_request_body">No request body provided</string>
+    <string name="no_response_body">No response body returned</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+
+    <string name="dialog_clear_title">Clear network history?</string>
+    <string name="dialog_clear_message">All captured requests will be removed.</string>
+    <string name="dialog_clear_confirm">Clear</string>
+    <string name="dialog_clear_cancel">Cancel</string>
+
+    <!-- Demo host screen strings -->
+    <string name="host_title">Inspector Demo App</string>
+    <string name="host_subtitle">Production-ready MVVM bottom sheet architecture</string>
+    <string name="host_card_title">Network Traffic Monitor</string>
+    <string name="host_open_inspector">Open Network Inspector</string>
+    <string name="host_simulate_get">Trigger GET /users/profile</string>
+    <string name="host_simulate_post">Trigger POST /api/payment</string>
+    <string name="host_simulate_error">Trigger 500 Server Error</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / Primary -->
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="primary_container">#EEF2FF</color>
+    <color name="on_primary_container">#312E81</color>
+    <color name="secondary">#7C3AED</color>
+
+    <!-- Surfaces & Neutrals -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    <color name="card_stroke">#E2E8F0</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="drag_handle">#CBD5E1</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_tertiary">#94A3B8</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Status Badges -->
+    <color name="status_success_text">#15803D</color>
+    <color name="status_success_bg">#DCFCE7</color>
+    <color name="status_redirect_text">#B45309</color>
+    <color name="status_redirect_bg">#FEF3C7</color>
+    <color name="status_error_text">#B91C1C</color>
+    <color name="status_error_bg">#FEE2E2</color>
+    <color name="status_error_row_bg">#FFF5F5</color>
+
+    <!-- HTTP Methods -->
+    <color name="method_get_text">#0369A1</color>
+    <color name="method_get_bg">#E0F2FE</color>
+    <color name="method_post_text">#15803D</color>
+    <color name="method_post_bg">#DCFCE7</color>
+    <color name="method_put_text">#B45309</color>
+    <color name="method_put_bg">#FEF3C7</color>
+    <color name="method_patch_text">#7E22CE</color>
+    <color name="method_patch_bg">#F3E8FF</color>
+    <color name="method_delete_text">#B91C1C</color>
+    <color name="method_delete_bg">#FEE2E2</color>
+
+    <!-- Code Block -->
+    <color name="code_background">#0F172A</color>
+    <color name="code_text">#E2E8F0</color>
+    <color name="code_border">#1E293B</color>
+
+    <!-- Skeleton Shimmer -->
+    <color name="skeleton_base">#E2E8F0</color>
+    <color name="skeleton_highlight">#F8FAFC</color>
+
+    <!-- Backward compatibility -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

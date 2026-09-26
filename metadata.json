@@ -1,0 +1,6 @@
+{
+  "name": "Network Inspector",
+  "description": "Network and API Inspector Bottom Sheets with MVVM architecture, clean filtering, and expandable request/response inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
